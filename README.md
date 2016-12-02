@@ -1,5 +1,5 @@
 ## 简介
-项目使用React框架,使用Webpack进行打包构建。是学习前端工程化技术React和Webpack等的一个demo
+项目使用React框架,使用Webpack进行打包构建。是学习前端工程化技术Webpack,npm和React框架等的一个demo
 
 ## 使用方法
 1. cd 开发目录
