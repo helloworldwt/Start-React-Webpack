@@ -5,5 +5,5 @@
 1. cd 开发目录
 - npm install
 - sudo npm run dev
-- 配置host 127.0.0.1 react-deomo.com
+- 配置host 127.0.0.1 react-demo.com
 - 访问 http://react-demo.com
